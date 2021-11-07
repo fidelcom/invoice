@@ -73,19 +73,19 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## These are the APIs below👇👇
 
-1. http://demo-invoice.com/api/upload-invoice
+1. http://invoice.com/api/upload-invoice
 
 pass parameter [POST] (price, delivery_fee, description)
 this is for storing data into database
 
-2. http://demo-invoice.com/api/all-invoices
+2. http://invoice.com/api/all-invoices
 
 this is for getting the list of all the invoices in the database
 
-3. http://demo-invoice.com/api/invoice/1
+3. http://invoice.com/api/invoice/1
 
 this is for getting a specific invoice from the database
 
-4. http://demo-invoice.com/api/invoices-summary
+4. http://invoice.com/api/invoices-summary
 
 This is for getting the summary of the total number of invoices and the amount
